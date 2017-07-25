@@ -1,13 +1,18 @@
 body{
-    color:green;
+    color:black;
     text-align: justify;
-    font-family:verdana
+    font-family:verdana;
+    width: 90%;
+    margin: 0 auto;
+        
         
     
 }
 h1{
+     color:green;
     text-align: center;
         text-decoration:underline;
+    text-transform: capitalize;
 }
 p{
     text-indent: 50px;
